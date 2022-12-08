@@ -12,4 +12,4 @@
 
 <!-- background image -->
 
-![](/_assets/space-6069115.jpg)
+![](/_assets/cover.png)
