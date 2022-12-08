@@ -1,4 +1,7 @@
-Di Simon Washbourne
+# Antichi Misteri & Tesori Perduti
+
+## Gioco d'avventura moderna
+di Simon Washbourne
 
 Basato su: Swords & Wizardry: Whitebox di Marv Breig & Swords &
 Wizardry: Core Rules di Matthew J. Finch
@@ -133,81 +136,6 @@ dell’Arbitro che del Giocatore. Per AM&TP, la scheda personaggio può
 essere una cosa molto semplice, come un cartoncino formato A7, con
 equipaggiamento e incantesimi scritti sul retro.
 
-<table>
-<colgroup>
-<col style="width: 28%" />
-<col style="width: 71%" />
-</colgroup>
-<tbody>
-<tr class="odd">
-<td colspan="2"><blockquote>
-<p>Nome</p>
-</blockquote></td>
-</tr>
-<tr class="even">
-<td><blockquote>
-<p>FOR</p>
-</blockquote></td>
-<td><blockquote>
-<p>CLaSSE</p>
-</blockquote></td>
-</tr>
-<tr class="odd">
-<td><blockquote>
-<p>INT</p>
-</blockquote></td>
-<td><blockquote>
-<p>LIVELLO</p>
-</blockquote></td>
-</tr>
-<tr class="even">
-<td><blockquote>
-<p>SAG</p>
-</blockquote></td>
-<td><blockquote>
-<p>PE</p>
-</blockquote></td>
-</tr>
-<tr class="odd">
-<td><blockquote>
-<p>COS</p>
-</blockquote></td>
-<td><blockquote>
-<p>TS</p>
-</blockquote></td>
-</tr>
-<tr class="even">
-<td><blockquote>
-<p>DES</p>
-</blockquote></td>
-<td><blockquote>
-<p>DC</p>
-</blockquote></td>
-</tr>
-<tr class="odd">
-<td><blockquote>
-<p>CAR</p>
-</blockquote></td>
-<td><blockquote>
-<p><span class="smallcaps">PF</span></p>
-</blockquote></td>
-</tr>
-<tr class="even">
-<td colspan="2"><blockquote>
-<p>ENC</p>
-</blockquote></td>
-</tr>
-<tr class="odd">
-<td colspan="2"><blockquote>
-<p>$ MOV</p>
-</blockquote></td>
-</tr>
-<tr class="even">
-<td colspan="2"></td>
-</tr>
-</tbody>
-</table>
-
 ## Attributi
 
 Gli Attributi Primari sono numeri che rappresentano la Forza, la
@@ -231,9 +159,8 @@ attributi alti o bassi, consultare la seguente tabella.
 
 Tabella 1: Modificatore di attributo
 
-|                     |                |                |
-|---------------------|----------------|----------------|
 | Tiro dell’attributo | Descrizione    | Bonus/Penalità |
+|---------------------|----------------|----------------|
 | 3                   | Molto scarso   | -3 (o -5%)     |
 | 4–5                 | Scarso         | -2 (o -5%)     |
 | 6-8                 | Sotto la media | -1 (o -5%)     |
@@ -294,9 +221,8 @@ vostro CAR per modificare la lealtà di questi PNG (vedi Lealtà).
 
 Tabella 2: Bonus di carisma
 
-|         |           |        |
-|---------|-----------|--------|
 | Carisma | Mercenari | Lealtà |
+|---------|-----------|--------|
 | 3       | 1         | -3     |
 | 4–5     | 2         | -2     |
 | 6–8     | 3         | -1     |
@@ -371,9 +297,8 @@ nella descrizione della classe.
 
 Tabella 3: Esempi di Tiri Salvezza
 
-|                                              |           |
-|----------------------------------------------|-----------|
 | Pericolo/Effetto                             | Attributo |
+|----------------------------------------------|-----------|
 | Alcol o veleno                               | COS       |
 | Imboscata                                    | SAG       |
 | Evitare fosse/mattoni che cadono             | DES       |
@@ -412,9 +337,8 @@ allora si può avere un'idea del potenziale di questa classe.
 
 Tabella 4: Avanzamento dell'Avventuriero Scienziato
 
-|         |         |         |             |                |     |
-|---------|---------|---------|-------------|----------------|-----|
 | Livello | PE      | DV (d6) | Per Colpire | Bonus Armatura | TS  |
+|---------|---------|---------|-------------|----------------|-----|
 | 1       | 0       | 1+1     | +0          | +0             | 15  |
 | 2       | 2.500   | 2       | +1          | +1             | 14  |
 | 3       | 5.000   | 3       | +2          | +1             | 13  |
@@ -616,9 +540,8 @@ e possono costare di più.
 
 #### Tabella 5: Attrezzature
 
-|                                                     |            |                 |
-|-----------------------------------------------------|------------|-----------------|
 | Attrezzatura                                        | Peso (lb)  | Costo ($)       |
+|-----------------------------------------------------|------------|-----------------|
 | Attrezzatura da arrampicata, completa               | 15         | 500             |
 | Attrezzatura subacquea (muta, pinne, bombole, ecc.) | 50         | 1.000           |
 | Binocolo per visione notturna                       | 2          | 500             |
@@ -650,9 +573,8 @@ e possono costare di più.
 
 #### Tabella 6: Veicoli
 
-|                     |     |     |     |            |           |
-|---------------------|-----|-----|-----|------------|-----------|
 | Tipo                | CA  | PF  | Mph | Posti      | Costo ($) |
+|---------------------|-----|-----|-----|------------|-----------|
 | Auto della polizia  | 13  | 50  | 120 | 4          | 20.000    |
 | Auto di lusso       | 13  | 55  | 100 | 4          | 80.000    |
 | Auto piccola        | 11  | 25  | 80  | 4          | 10.000    |
@@ -669,9 +591,8 @@ e possono costare di più.
 
 #### Tabella 7: Servizi e trasporti
 
-|                                                            |                    |
-|------------------------------------------------------------|--------------------|
 | Tipo                                                       | Costo ($)          |
+|------------------------------------------------------------|--------------------|
 | Bevande (birra, vino, alcolici, ecc.)                      | 5-10 per bicchiere |
 | Biglietto aereo, interno (viaggio medio)                   | 330                |
 | Biglietto ferroviario (da costa a costa degli Stati Uniti) | 220                |
@@ -681,9 +602,8 @@ e possono costare di più.
 
 #### Tabella 8: Armatura corporea standard occultabile
 
-|                             |                  |            |      |           |
-|-----------------------------|------------------|------------|------|-----------|
 | Armatura                    | CA vs proiettili | CA vs lame | Peso | Costo ($) |
+|-----------------------------|------------------|------------|------|-----------|
 | Giubbotto antiproiettile I  | 11               | 10         | 3.5  | 220       |
 | Giubbotto antiproiettile II | 12               | 10         | 4    | 300       |
 | Giubbotto anticoltello I    | 10               | 11         | 2.5  | 130       |
@@ -703,9 +623,8 @@ antiurto I (CA11 contro proiettili, CA13 contro coltelli).
 
 #### Tabella 9: Corazza tattica
 
-|                              |                  |            |      |           |
-|------------------------------|------------------|------------|------|-----------|
 | Armatura                     | CA vs proiettili | CA vs lame | Peso | Costo ($) |
+|------------------------------|------------------|------------|------|-----------|
 | Giubbotto antiproiettile III | 13               | 10         | 5    | 850       |
 | Giubbotto antiproiettile IV  | 14               | 10         | 6    | 1200      |
 | Pannello anti-impatto III    | +3               | +3         | 4,5  | 700       |
@@ -716,9 +635,8 @@ antiurto I (CA11 contro proiettili, CA13 contro coltelli).
 
 #### Tabella 10: Armi da mischia standard
 
-|                           |       |            |           |
-|---------------------------|-------|------------|-----------|
 | Arma                      | Danno | Peso (lb.) | Costo ($) |
+|---------------------------|-------|------------|-----------|
 | Bastone/Tonfa             | 1d6-1 | 3          | 25        |
 | Coltello da combattimento | 1d6   | 1          | 175       |
 | Coltello da lotta\*       | 1d6-1 | 0,5        | 100       |
@@ -730,45 +648,11 @@ antiurto I (CA11 contro proiettili, CA13 contro coltelli).
 
 #### Tabella 11: Armi a distanza standard
 
-<table style="width:100%;">
-<colgroup>
-<col style="width: 32%" />
-<col style="width: 13%" />
-<col style="width: 17%" />
-<col style="width: 10%" />
-<col style="width: 17%" />
-<col style="width: 8%" />
-</colgroup>
-<tbody>
-<tr class="odd">
-<td>Arma</td>
-<td>Danno</td>
-<td>Cadenza di fuoco</td>
-<td><p>Gittata</p>
-<p>(piedi)</p></td>
-<td><p>Peso</p>
-<p>(lb.)</p></td>
-<td><p>Costo</p>
-<p>($)</p></td>
-</tr>
-<tr class="even">
-<td>Coltello da combattimento lanciato</td>
-<td>1d6-1</td>
-<td>1</td>
-<td>20</td>
-<td>1,5</td>
-<td>100</td>
-</tr>
-<tr class="odd">
-<td>Granata a frammentazione</td>
-<td>3d6</td>
-<td>1</td>
-<td>30</td>
-<td>1</td>
-<td></td>
-</tr>
-</tbody>
-</table>
+| Arma                               | Danno | Cadenza di fuoco | Gittata (piedi) | Peso (lb.) | Costo($) |
+| ---------------------------------- | ----- | ---------------- | --------------- | ---------- | -------- |
+| Coltello da combattimento lanciato | 1d6-1 | 1                | 20              | 1,5        | 100      |
+| Granata a frammentazione           | 3d6   | 1                | 30              | 1          |          |
+
 
 \* La cadenza di fuoco è il numero di proiettili che possono essere
 sparati per ogni round di combattimento.
@@ -780,102 +664,17 @@ distanza (x3).
 
 #### Tabella 12: Armi da fuoco standard
 
-<table>
-<colgroup>
-<col style="width: 21%" />
-<col style="width: 14%" />
-<col style="width: 15%" />
-<col style="width: 16%" />
-<col style="width: 10%" />
-<col style="width: 12%" />
-<col style="width: 9%" />
-</colgroup>
-<tbody>
-<tr class="odd">
-<td>Armi</td>
-<td>Danno</td>
-<td>Cadenza di fuoco*</td>
-<td>Capacità</td>
-<td><p>Gittata</p>
-<p>(piedi)</p></td>
-<td><p>Peso</p>
-<p>(lb,)</p></td>
-<td>Costo ($)</td>
-</tr>
-<tr class="even">
-<td>Fucile</td>
-<td>2d6+2**</td>
-<td>2</td>
-<td>5</td>
-<td>600</td>
-<td>8</td>
-<td>1000</td>
-</tr>
-<tr class="odd">
-<td>Fucile a pompa</td>
-<td>2d6***</td>
-<td>1</td>
-<td>7</td>
-<td>80</td>
-<td>6</td>
-<td>300</td>
-</tr>
-<tr class="even">
-<td>Fucile d'assalto</td>
-<td>2d6+1**</td>
-<td>2/raffica/ automatico</td>
-<td>30</td>
-<td>500</td>
-<td>7,5</td>
-<td>5000</td>
-</tr>
-<tr class="odd">
-<td>Pistola mitragliatrice</td>
-<td>1d6</td>
-<td>2/raffica</td>
-<td>20</td>
-<td>120</td>
-<td>3</td>
-<td>1200</td>
-</tr>
-<tr class="even">
-<td>Pistola pesante</td>
-<td>1d6+2</td>
-<td>2</td>
-<td>6-9</td>
-<td>150</td>
-<td>4</td>
-<td>800</td>
-</tr>
-<tr class="odd">
-<td>Pistola, leggera</td>
-<td>1d6</td>
-<td>2</td>
-<td>5-12</td>
-<td>80</td>
-<td>1</td>
-<td>400</td>
-</tr>
-<tr class="even">
-<td>Pistola, media</td>
-<td>1d6+1</td>
-<td>2</td>
-<td>6-11</td>
-<td>120</td>
-<td>2,5</td>
-<td>500</td>
-</tr>
-<tr class="odd">
-<td>Mitragliatrice</td>
-<td>1d6+1</td>
-<td>2/raffica/ automatico</td>
-<td>32</td>
-<td>150</td>
-<td>4</td>
-<td>2000</td>
-</tr>
-</tbody>
-</table>
+| Armi                   | Danno   | Cadenza di fuoco*     | Capacità | Gittata (piedi) | Peso (lb,) | Costo ($) |
+|------------------------|---------|-----------------------|----------|-----------------|------------|-----------|
+| Fucile                 | 2d6+2** | 2                     | 5        | 600             | 8          | 1000      |
+| Fucile a pompa         | 2d6***  | 1                     | 7        | 80              | 6          | 300       |
+| Fucile d'assalto       | 2d6+1** | 2/raffica/ automatico | 30       | 500             | 7,5        | 5000      |
+| Pistola mitragliatrice | 1d6     | 2/raffica             | 20       | 120             | 3          | 1200      |
+| Pistola pesante        | 1d6+2   | 2                     | 6-9      | 150             | 4          | 800       |
+| Pistola, leggera       | 1d6     | 2                     | 5-12     | 80              | 1          | 400       |
+| Pistola, media         | 1d6+1   | 2                     | 6-11     | 120             | 2,5        | 500       |
+| Mitragliatrice         | 1d6+1   | 2/raffica/ automatico | 32       | 150             | 4          | 2000      |
+
 
 \* La cadenza di fuoco è il numero di proiettili che possono essere
 sparati per ogni round di combattimento e/o se l'arma è in grado di
@@ -898,77 +697,21 @@ colpire di 2.
 
 #### Tabella 13: Armi da mischia esotiche
 
-|       |       |            |           |
-|-------|-------|------------|-----------|
 | Arma  | Danno | Peso (lb.) | Costo ($) |
+|-------|-------|------------|-----------|
 | Bō    | 1d6   | 4          | 20        |
 | Spada | 1d6   | 4          | 200       |
 
 #### Tabella 14: Armi a distanza esotiche
 
-<table style="width:100%;">
-<colgroup>
-<col style="width: 32%" />
-<col style="width: 13%" />
-<col style="width: 17%" />
-<col style="width: 10%" />
-<col style="width: 17%" />
-<col style="width: 8%" />
-</colgroup>
-<tbody>
-<tr class="odd">
-<td>Arma</td>
-<td>Danno</td>
-<td>Cadenza di fuoco *</td>
-<td><p>Gittata</p>
-<p>(piedi)</p></td>
-<td><p>Peso</p>
-<p>(lb.)</p></td>
-<td><p>Costo</p>
-<p>($)</p></td>
-</tr>
-<tr class="even">
-<td>Balestra</td>
-<td>1d6</td>
-<td>2</td>
-<td>80</td>
-<td>7</td>
-<td>200</td>
-</tr>
-<tr class="odd">
-<td>Balestra lunga</td>
-<td>1d6</td>
-<td>2</td>
-<td>60</td>
-<td>6</td>
-<td>160</td>
-</tr>
-<tr class="even">
-<td>Balestra, pistola</td>
-<td>1d6-1</td>
-<td>2</td>
-<td>30</td>
-<td>4</td>
-<td>50</td>
-</tr>
-<tr class="odd">
-<td>Fionda</td>
-<td>1d3</td>
-<td>2</td>
-<td>20</td>
-<td>1</td>
-<td>10</td>
-</tr>
-<tr class="even">
-<td>Shuriken</td>
-<td>1d3</td>
-<td>3</td>
-<td>10</td>
-<td>¼</td>
-<td>3</td>
-</tr>
-</tbody>
-</table>
+| Arma              | Danno | Cadenza di fuoco * | Gittata (piedi) | Peso (lb.) | Costo ($) |
+|-------------------|-------|--------------------|-----------------|------------|-----------|
+| Balestra          | 1d6   | 2                  | 80              | 7          | 200       |
+| Balestra lunga    | 1d6   | 2                  | 60              | 6          | 160       |
+| Balestra, pistola | 1d6-1 | 2                  | 30              | 4          | 50        |
+| Fionda            | 1d3   | 2                  | 20              | 1          | 10        |
+| Shuriken          | 1d3   | 3                  | 10              | ¼          | 3         |
+
 
 \* La cadenza di fuoco è il numero di proiettili che possono essere
 sparati per ogni round di combattimento.
@@ -979,76 +722,14 @@ bonus di +0 per colpire, una penalità di -1 per colpire a media distanza
 
 #### Tabella 15: Armi tattiche
 
-<table style="width:100%;">
-<colgroup>
-<col style="width: 23%" />
-<col style="width: 17%" />
-<col style="width: 14%" />
-<col style="width: 10%" />
-<col style="width: 12%" />
-<col style="width: 10%" />
-<col style="width: 10%" />
-</colgroup>
-<tbody>
-<tr class="odd">
-<td>Arma</td>
-<td>Danno</td>
-<td>Cadenza di fuoco *</td>
-<td>Caricatore</td>
-<td><p>Gittata</p>
-<p>(piedi)</p></td>
-<td><p>Peso</p>
-<p>(lb.)</p></td>
-<td><p>Costo</p>
-<p>($)</p></td>
-</tr>
-<tr class="even">
-<td>Fucile di precisione</td>
-<td>2d6**</td>
-<td>1</td>
-<td>5</td>
-<td>800</td>
-<td>20</td>
-<td>5000</td>
-</tr>
-<tr class="odd">
-<td>Fucile di precision .50</td>
-<td>2d6+2***</td>
-<td>2</td>
-<td>5-10</td>
-<td>1000</td>
-<td>30</td>
-<td>8000</td>
-</tr>
-<tr class="even">
-<td>Lanciarazzi</td>
-<td>6d6</td>
-<td>1</td>
-<td>1</td>
-<td>600</td>
-<td>5</td>
-<td>2200</td>
-</tr>
-<tr class="odd">
-<td>Mitragliatrice leggera</td>
-<td>2d6+1**</td>
-<td>raffica/auto</td>
-<td>100</td>
-<td>1000</td>
-<td>25</td>
-<td>10000</td>
-</tr>
-<tr class="even">
-<td>Mitragliatrice pesante</td>
-<td>2d6+2***</td>
-<td>automatico</td>
-<td>cintura</td>
-<td>1200</td>
-<td>100</td>
-<td>15000</td>
-</tr>
-</tbody>
-</table>
+| Arma                    | Danno    | Cadenza di fuoco * | Caricatore | Gittata (piedi) | Peso (lb.) | Costo ($) |
+|-------------------------|----------|--------------------|------------|-----------------|------------|-----------|
+| Fucile di precisione    | 2d6**    | 1                  | 5          | 800             | 20         | 5000      |
+| Fucile di precision .50 | 2d6+2*** | 2                  | 5-10       | 1000            | 30         | 8000      |
+| Lanciarazzi             | 6d6      | 1                  | 1          | 600             | 5          | 2200      |
+| Mitragliatrice leggera  | 2d6+1**  | raffica/auto       | 100        | 1000            | 25         | 10000     |
+| Mitragliatrice pesante  | 2d6+2*** | automatico         | cintura    | 1200            | 100        | 15000     |
+
 
 \* La cadenza di fuoco è il numero di proiettili che possono essere
 sparati per ogni round di combattimento e/o se l'arma è in grado di
@@ -1293,9 +974,8 @@ in decine di piedi per turno, consentendo due spostamenti per turno.
 
 #### Tabella 16: Tasso di movimento
 
-|                        |           |
-|------------------------|-----------|
 | Peso trasportato (lb.) | Movimento |
+|------------------------|-----------|
 | 0–75                   | 12        |
 | 76–100                 | 9         |
 | 101–150                | 6         |
@@ -1303,9 +983,8 @@ in decine di piedi per turno, consentendo due spostamenti per turno.
 
 #### Tabella 17: Adeguamenti della velocità di movimento
 
-|                   |                           |
-|-------------------|---------------------------|
 | Tipo di movimento | Adeguamento               |
+|-------------------|---------------------------|
 | Attento           | Metà del tasso medio      |
 | Normale           | Tasso medio               |
 | Corsa             | Il doppio del tasso medio |
@@ -1468,10 +1147,9 @@ dell'attacco.
 
 #### Tabella 18: Modificatori di raffica e fuoco automatico
 
-|                     |               |       |               |       |
-|---------------------|---------------|-------|---------------|-------|
 | Numero di obiettivi | Raffica       |       | Automatico    |       |
 |                     | Per-Colpire\* | Danno | Per-Colpire\* | Danno |
+|---------------------|---------------|-------|---------------|-------|
 | 1                   | +2            | +2    | +4            | +4    |
 | 2                   | +0            | +2    | +2            | +4    |
 | 3                   | -2            | +2    | +0            | +4    |
@@ -1546,9 +1224,8 @@ Carisma del giocatore.
 
 #### Tabella 19: Fedeltà
 
-|       |                                  |
-|-------|----------------------------------|
 | Tiro  | Lealtà                           |
+|-------|----------------------------------|
 | 3     | Traditore                        |
 | 4–5   | -2 alla prossima prova di lealtà |
 | 6–8   | -1 alla prossima prova di lealtà |
@@ -3155,8 +2832,6 @@ riportato in patria dal Perfecti Andre Gadal. È evidente che c'è un
 problema con le foto, dato che il suo collega universitario dice che il
 file era corrotto e che non si trovano nemmeno sul cellulare.
 
-<img src="media/image1.png" style="width:3.8664in;height:2.896in" />
-
 **Castello di Montsegur:** Il castello è arroccato su una rupe alta
 1.207 metri, che domina il villaggio. La salita alla cima richiede quasi
 un'ora di cammino. Ciò che resta della fortezza è solo un guscio e non
@@ -3168,25 +2843,15 @@ conduce ad alcuni livelli sotterranei normalmente non aperti al pubblico
 e, utilizzando le informazioni contenute nel cellulare di Anderson, i PG
 troveranno l'elemento scolpito fotografato.
 
-<table>
-<colgroup>
-<col style="width: 100%" />
-</colgroup>
-<thead>
-<tr class="header">
-<th><p>Nota: se volete inviare degli scagnozzi mentre i PG sono a
+**Nota**: se volete inviare degli scagnozzi mentre i PG sono a
 Montsegur, potreste dire che uno dei mercenari ha avvicinato uno dei
 dipendenti dell'hotel la mattina dopo l'omicidio e gli ha dato cento
 euro, dicendogli di chiamare se vede qualcuno che ficca il naso in giro
 a fare domande e che ci sarà dell'altro per lui. Fate inviare un sicario
-per ogni PG del gruppo più altri due.</p>
-<p>Scagnozzi: CA 11, DV 1+1, Attacchi: pistole d6, TS: 18, Speciale:
-Nessuno, Movimento 9, PE: 15.</p></th>
-</tr>
-</thead>
-<tbody>
-</tbody>
-</table>
+per ogni PG del gruppo più altri due.
+
+**Scagnozzi**: CA 11, DV 1+1, Attacchi: pistole d6, TS: 18, Speciale:
+Nessuno, Movimento 9, PE: 15.
 
 ## Indagini a Carcassonne
 
@@ -3243,23 +2908,13 @@ buona opportunità di fuga. Se non altro, può usare uno dei suoi PA per
 scappare, se le cose si mettono male per lui. I PG possono sempre
 parlargli usando il cellulare di Viktor!*
 
-<table>
-<colgroup>
-<col style="width: 100%" />
-</colgroup>
-<thead>
-<tr class="header">
-<th><p>Viktor: capo mercenario: CA 13/13, DV 3+1, PF: 12, Attacchi:
+**Viktor**: capo mercenario: CA 13/13, DV 3+1, PF: 12, Attacchi:
 pistola mitragliatrice d6, TS: 16, Speciale: +1 iniziativa, Movimento
 12, PE: 60. Ha un telefono cellulare che usa per tenersi in contatto con
-Julius.</p>
-<p>Mercenari (3): CA 12/12, DV 2, PF: 7, 9, 8, Attacchi: pistola d6, TS:
-17, Speciale: +1 iniziativa, Movimento 12, PE: 30.</p></th>
-</tr>
-</thead>
-<tbody>
-</tbody>
-</table>
+Julius.
+
+**Mercenari (3)**: CA 12/12, DV 2, PF: 7, 9, 8, Attacchi: pistola d6, TS:
+17, Speciale: +1 iniziativa, Movimento 12, PE: 30.
 
 ## Indagini a Dolni Bela
 
@@ -3314,37 +2969,26 @@ dozzina di uomini e donne che aiutano se il Loom o il loro stile di vita
 sono minacciati. Questi sono trattati come scagnozzi. (Aumentare o
 ridurre il numero di scagnozzi in base al numero di PG).
 
-<table>
-<colgroup>
-<col style="width: 100%" />
-</colgroup>
-<thead>
-<tr class="header">
-<th><p>Adanek Hroznata: Mercenario: CA 13/13, DV 4+2, PF: 14, Attacchi:
-pistola d6, TS: 16, Speciale: +1 iniziativa, Movimento 12, PE: 120.</p>
-<p>Janek Hroznata: Mercenario: CA 13/13, DV 3+1, PF: 14, Attacchi:
+**Adanek Hroznata**: Mercenario: CA 13/13, DV 4+2, PF: 14, Attacchi:
+pistola d6, TS: 16, Speciale: +1 iniziativa, Movimento 12, PE: 120
+
+**Janek Hroznata**: Mercenario: CA 13/13, DV 3+1, PF: 14, Attacchi:
 fucile d'assalto 2d6+1*, spada d6, TS: 16, Speciale: +1 iniziativa, +1
-danno in mischia, Movimento 12,</p>
-<p>PE: 60.</p>
-<p>Elita Hroznata: Mercenaria: CA 14/14, DV 3+1, PF: 11, Attacchi:
+danno in mischia, Movimento 12, PE: 60.
+
+**Elita Hroznata**: Mercenaria: CA 14/14, DV 3+1, PF: 11, Attacchi:
 coltelli d6-1, TS: 17, Speciale: +2 iniziativa, furtività +2, Movimento
-12, PE: 60.</p>
-<p>Vidor Polansky: Mercenario: CA 13/13, DV 2, PF: 8, Attacchi: pistola
-mitragliatrice, TS: 17, Speciale: +1 iniziativa, Movimento: 12, PE:
-30</p>
-<p>Isak Huss: Poliziotto: CA 11/12, DV 1+1, PF, 5, Attacchi: pistola d6,
-manganello d6, TS: 18, Speciale: rinforzo polizia, Movimento: 12, PE:
-15</p>
-<p>3 x mercenari: CA 13/13, DV 2, PF, 7, 5, 9, Attacchi: pistola, TS:
-17, Speciale: +1</p>
-<p>iniziativa, Movimento: 12, PE: 30</p>
-<p>Abitanti: Scagnozzi: CA 11, DV 1+1, Attacchi: pistole d6, TS: 18,
-Speciale: Nessuno, Movimento 9, PE: 15.</p></th>
-</tr>
-</thead>
-<tbody>
-</tbody>
-</table>
+12, PE: 60.
+
+**Vidor Polansky**: Mercenario: CA 13/13, DV 2, PF: 8, Attacchi: pistola
+mitragliatrice, TS: 17, Speciale: +1 iniziativa, Movimento: 12, PE: 30
+
+**Isak Huss**: Poliziotto: CA 11/12, DV 1+1, PF, 5, Attacchi: pistola d6,
+manganello d6, TS: 18, Speciale: rinforzo polizia, Movimento: 12, PE: 15
+
+**3 x mercenari**: CA 13/13, DV 2, PF, 7, 5, 9, Attacchi: pistola, TS: 17, Speciale: +1 iniziativa, Movimento: 12, PE: 30
+
+**Abitanti**: Scagnozzi: CA 11, DV 1+1, Attacchi: pistole d6, TS: 18, Speciale: Nessuno, Movimento 9, PE: 15.
 
 L'andamento di questa parte dell'avventura dipende da cosa fanno i PGC,
 da come si avvicinano al villaggio e così via. Inizialmente gli abitanti
@@ -3369,8 +3013,7 @@ trovare il Telaio è lo scopo della loro esistenza. L'unico modo per
 evitare che il Telaio cada nelle mani della Fraternità è distruggerlo o
 smontarlo e portarlo in un luogo sicuro.*
 
-| "Julius": Perfecti: CA 13, DV 5, PF: 25, Attacchi: 2 pistole mitragliatrici d6, TS: 14, Speciale: +2 iniziativa, AP: 2, Movimento 12, PE: 400. Possiede anche un binocolo e un telefono cellulare che ha usato solo per tenersi in contatto con Viktor. Si tiene in contatto con la confraternita con altri mezzi. Ha anche una valigetta contenente il tablet PC del Prof. Anderson e appunti scritti a mano. |
-|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+**"Julius"**: Perfecti: CA 13, DV 5, PF: 25, Attacchi: 2 pistole mitragliatrici d6, TS: 14, Speciale: +2 iniziativa, AP: 2, Movimento 12, PE: 400. Possiede anche un binocolo e un telefono cellulare che ha usato solo per tenersi in contatto con Viktor. Si tiene in contatto con la confraternita con altri mezzi. Ha anche una valigetta contenente il tablet PC del Prof. Anderson e appunti scritti a mano. 
 
 ## Conclusione dell'avventura e note sui PE
 

@@ -2,24 +2,39 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>Document</title>
+  <title>Antichi Misteri & Tesori Perduti</title>
   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
   <meta name="description" content="Description">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
   <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify@4/lib/themes/vue.css">
+  <link rel="stylesheet" type="text/css" href="css/style.css" />
 </head>
 <body>
   <div id="app"></div>
   <script>
     window.$docsify = {
-      name: '',
-      repo: '',
-	  loadSidebar: true,
-	  loadSidebar: true,
-      subMaxLevel: 2
+      name: 'Antichi Misteri & Tesori Perduti',
+      repo: 'https://github.com/Italian-Translation-Alliance/antichimisteri',
+	    loadSidebar: '_navigation/_sidebar.md',
+      subMaxLevel: 2,
+      loadFooter: '_navigation/_footer.md',
+      auto2top: true,
+      search: 'auto',
+      coverpage: {
+        '/': '_navigation/_coverpage.md'
+      },
+      pagination: {
+        crossChapter: true,
+        crossChapterText: true
+      },
+      onlyCover: false
     }
   </script>
   <!-- Docsify v4 -->
   <script src="//cdn.jsdelivr.net/npm/docsify@4"></script>
+  <!-- plugins -->
+  <script src="//cdn.jsdelivr.net/npm/@alertbox/docsify-footer/dist/docsify-footer.min.js"></script>
+  <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/search.min.js"></script>
+  <script src="//unpkg.com/docsify-pagination/dist/docsify-pagination.min.js"></script>
 </body>
 </html>

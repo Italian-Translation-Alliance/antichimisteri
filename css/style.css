@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css2?family=Bangers&family=Ubuntu:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+
+/* app-name */
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Bangers' !important;
+    /* text-transform: capitalize; */
+}
+
+body {
+    font-family: 'Ubuntu';
+  }
+
+  .search a:hover, 
+  .search .search-keyword, 
+  .app-nav a:hover, 
+  .app-nav a:active,
+  .sidebar ul li.active > a, 
+  .markdown-section a, 
+  .token.attr-value, 
+  .token.control, 
+  .token.directive, 
+  .token.string, 
+  .token.unit, 
+  section.cover .cover-main > p:last-child a,
+  section.cover blockquote > p > a:hover
+  { color: #a80000 }  
+
+.github-corner svg {
+    fill: #a80000;
+}
+
+section.cover .cover-main>p:last-child a {
+  border: 1px solid #a80000;
+}
+
+section.cover .cover-main>p:last-child a:last-child {
+  background-color: #a80000;
+}
