@@ -502,27 +502,27 @@ i seguenti equipaggiamenti, anziché acquistarli singolarmente.
 
 Gli Avventurieri Scienziati iniziano a giocare con:
 
--   ## Una dotazione di abiti civili.
+- Una dotazione di abiti civili.
 
--   ## Un set di abbigliamento robusto in stile militare o da escursione.
+- Un set di abbigliamento robusto in stile militare o da escursione.
 
--   ## Giubbotto antiproiettile o gilet anticoltellata II (o I se si preferisce), pannello antiurto II (o I se si preferisce).
+- Giubbotto antiproiettile o gilet anticoltellata II (o I se si preferisce), pannello antiurto II (o I se si preferisce).
 
--   ## Un'arma da mischia standard.
+- Un'arma da mischia standard.
 
--   ## Un'arma da fuoco standard.
+- Un'arma da fuoco standard.
 
--   ## Un oggetto pertinente all'area di competenza scelta dal personaggio (come un kit medico, un kit di attrezzi, un'attrezzatura da arrampicata, un'arma specialistica o un'armatura tattica) .
+- Un oggetto pertinente all'area di competenza scelta dal personaggio (come un kit medico, un kit di attrezzi, un'attrezzatura da arrampicata, un'arma specialistica o un'armatura tattica) .
 
--   ## Un tablet.
+- Un tablet.
 
--   ## Un telefono cellulare.
+- Un telefono cellulare.
 
--   ## Un'auto del valore massimo di 25.000 dollari.
+- Un'auto del valore massimo di 25.000 dollari.
 
--   ## 10$ x 3d6 in contanti .
+- 10$ x 3d6 in contanti .
 
--   ## Risparmi di 1.000$ x 3d6.
+- Risparmi di 1.000$ x 3d6.
 
 ## Denaro
 
@@ -613,7 +613,7 @@ e possono costare di più.
 | Pannello anti-impatto I     | +1               | +1         | 2.5  | 130       |
 | Pannello anti-impatto II    | +2               | +2         | 3    | 180       |
 
-NOTA: i pannelli anticoltello o antiurto possono essere inseriti in
+**Nota**: i pannelli anticoltello o antiurto possono essere inseriti in
 tasche speciali in entrambi i tipi di giubbotto antriproiettile o
 anticoltello. È possibile inserire un solo tipo di pannello alla volta,
 per cui si potrebbe indossare un giubotto anticoltello II con pannello
@@ -657,7 +657,7 @@ antiurto I (CA11 contro proiettili, CA13 contro coltelli).
 \* La cadenza di fuoco è il numero di proiettili che possono essere
 sparati per ogni round di combattimento.
 
-Nota: le armi a distanza utilizzate a breve gittata (x1) hanno un bonus
+**Nota**: le armi a distanza utilizzate a breve gittata (x1) hanno un bonus
 di +2 ai tiri per colpire, un bonus di +1 ai tiri per colpire a media
 distanza (x2) e nessun bonus o penalità per gli attacchi a lunga
 distanza (x3).
@@ -687,11 +687,11 @@ mirato. Pertanto, un solo colpo può attaccare diversi bersagli.
 Tuttavia, oltre i primi 60 piedi, i bersagli possono effettuare un tiro
 salvezza (si applica il mod. DES) per dimezzare i danni.
 
-Nota: Le armi missilistiche a corto raggio hanno un bonus di +0 ai danni
+**Nota**: Le armi missilistiche a corto raggio hanno un bonus di +0 ai danni
 da colpire (x1), una penalità di -1 ai danni da colpire a medio raggio
 (x2) e una penalità di -2 ai danni da colpire a lungo raggio (x3)
 
-Nota: Puntare per un round interrotto riduce le penalità ai danni da
+**Nota**: Puntare per un round interrotto riduce le penalità ai danni da
 colpire di 1. Puntare con i mirini riduce le penalità ai danni da
 colpire di 2.
 
@@ -716,7 +716,7 @@ colpire di 2.
 \* La cadenza di fuoco è il numero di proiettili che possono essere
 sparati per ogni round di combattimento.
 
-Nota: le armi missilistiche utilizzate a breve distanza (x1) hanno un
+**Nota**: le armi missilistiche utilizzate a breve distanza (x1) hanno un
 bonus di +0 per colpire, una penalità di -1 per colpire a media distanza
 (x2) e una penalità di -2 per gli attacchi a lunga distanza (x3).
 
@@ -741,11 +741,11 @@ descrizione dell'arma).
 \*\*\* Ignora fino a +2CA dalle armature balistiche o da impatto (vedi
 descrizione dell'arma).
 
-Nota: Le armi missilistiche utilizzate a breve distanza (x1) hanno un
+**Nota**: Le armi missilistiche utilizzate a breve distanza (x1) hanno un
 bonus di +0 ai colpi, una penalità di -1 ai colpi a media distanza (x2)
 e una penalità di -2 agli attacchi a lunga distanza (x3).
 
-Nota: Puntare per un round interrotto riduce di 1 la penalità "colpire".
+**Nota**: Puntare per un round interrotto riduce di 1 la penalità "colpire".
 Puntare con il mirino riduce di 2 la penalità "colpire".
 
 #### Armatura corporea standard occultabile
@@ -1141,9 +1141,9 @@ dell'attacco.
 
 ### Raffica e fuoco automatico
 
-#### Alcune armi sono in grado di sparare brevi raffiche (3 proiettili per ogni pressione del grilletto) o fuoco automatico (una raffica costante di proiettili fino al rilascio del grilletto o allo svuotamento del caricatore).
+Alcune armi sono in grado di sparare brevi raffiche (3 proiettili per ogni pressione del grilletto) o fuoco automatico (una raffica costante di proiettili fino al rilascio del grilletto o allo svuotamento del caricatore).
 
-#### Le raffiche e il fuoco automatico aumentano la possibilità di colpire un singolo bersaglio e possono causare danni aggiuntivi (è più probabile che il bersaglio venga "colpito" con i proiettili in più), ma consumano le munizioni molto più rapidamente e possono essere uno spreco. Possono anche essere usati per colpire più di un avversario, ma in questo modo sarà meno efficace. Utilizzare la seguente tabella:
+Le raffiche e il fuoco automatico aumentano la possibilità di colpire un singolo bersaglio e possono causare danni aggiuntivi (è più probabile che il bersaglio venga "colpito" con i proiettili in più), ma consumano le munizioni molto più rapidamente e possono essere uno spreco. Possono anche essere usati per colpire più di un avversario, ma in questo modo sarà meno efficace. Utilizzare la seguente tabella:
 
 #### Tabella 18: Modificatori di raffica e fuoco automatico
 
@@ -1401,7 +1401,7 @@ campagna.
 
 # Capitolo 6: In giro per il mondo
 
-## Si parte dell’assunto che i personaggi di AM&TP siano viaggiatori del mondo, esploratori e avventurieri. Saranno costantemente in movimento; ci si aspetta che vadano in posti che nemmeno i turisti più avventurosi conoscono - posti che non sono sulla mappa, o almeno non sono su nessuna mappa attualmente in uso
+Si parte dell’assunto che i personaggi di AM&TP siano viaggiatori del mondo, esploratori e avventurieri. Saranno costantemente in movimento; ci si aspetta che vadano in posti che nemmeno i turisti più avventurosi conoscono - posti che non sono sulla mappa, o almeno non sono su nessuna mappa attualmente in uso
 
 ## Il viaggio
 
@@ -3027,6 +3027,8 @@ cada nelle mani della Fratellanza con ogni mezzo. Dovrete giudicare il
 successo o meno del PG e assegnare, ad esempio, 500 PE per aver
 completato l'avventura, 750 PE per un'avventura completata con successo
 e forse 1.000 PE per un'avventura di grande successo.
+
+# Licenza
 
 Open Game Content may only be Used under and in terms of the Open Game
 License Version 1.0a (OGL).
