@@ -174,7 +174,7 @@ Tabella 1: Modificatore di attributo
 Ogni personaggio riceve un bonus (o una penalità) percentuale ai suoi
 "punti esperienza" (PE) che aumenterà la quantità di punti esperienza
 acquisiti durante un'avventura. Tutti i personaggi sommano la loro
-percentuale di bonus di attributo primario, di saggezza e di carisma per
+percentuale di bonus di attributo principale, di saggezza e di carisma per
 ottenere un bonus di esperienza totale. Il bonus massimo ottenibile è
 del 15%.
 
