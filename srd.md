@@ -1278,14 +1278,14 @@ così tante regole e il vostro giudizio le oltrepasserà in ogni caso. La
 maggior parte delle situazioni sono gestite prendendo decisioni di buon
 senso riguardo a ciò che può accadere.
 
-Per esempio: i giocatori stanno combattendo con un gruppo agenti nemici
-nascosti dietro l’angolo e il giocatore non ha intenzione di andarci,
-spetta all'Arbitro stabilire se sia sensato o meno che i fuorilegge si
-precipitino dietro l'angolo e attacchino, o se i loro ordini siano
-semplicemente di rimanere dove sono. Se il Giocatore decide che il suo
-personaggio sta per saltare attraverso un muro di fiamme, con svariati
-candelotti di dinamite nelle sue tasche, sta all’Arbitro determinare se
-esploderanno o meno.
+Per esempio: i giocatori stanno combattendo con un gruppo di agenti 
+nemici nascosti dietro l’angolo e il giocatore non ha intenzione di
+andarci, spetta all'Arbitro stabilire se sia sensato o meno che i
+fuorilegge si precipitino dietro l'angolo e attacchino, o se i loro
+ordini siano semplicemente di rimanere dove sono. Se il Giocatore decide
+che il suo personaggio sta per saltare attraverso un muro di fiamme, con
+svariati candelotti di dinamite nelle sue tasche, sta all’Arbitro
+determinare se esploderanno o meno.
 
 Questo significa inventarsi un sacco di cose sul momento. Se non siete
 dei bravi narratori o non siete abituati a pensare creativamente al
@@ -1372,11 +1372,11 @@ e i PG potrebbero far parte della Numa o della Sigma Force.
 
 Ci sono molti modi alternativi per gli Arbitri di assegnare punti
 esperienza, oltre alla semplice uccisione dei nemici. Per esempio, la
-partecipazione attiva alla campagna potrebbe per ogni ora di gioco in
-tempo reale, così come la risoluzione di enigmi e l'aiuto agli alleati.
-Una soluzione particolarmente intelligente o una vittoria epica possono
-valere il doppio della normale quantità di PE assegnati, mentre un
-fallimento abissale può meritare la metà.
+partecipazione attiva alla campagna potrebbe garantire esperienza per
+ogni ora di gioco in tempo reale, così come la risoluzione di enigmi e
+l'aiuto agli alleati. Una soluzione particolarmente intelligente o una
+vittoria epica possono valere il doppio della normale quantità di PE
+assegnati, mentre un fallimento abissale può meritare la metà.
 
 Alcuni Arbitri fanno sì che tutti i PE guadagnati facciano parte di un
 totale comunitario da dividere equamente, poiché non tutti i personaggi
